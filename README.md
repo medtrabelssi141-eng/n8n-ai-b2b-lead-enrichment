@@ -20,5 +20,5 @@ An end-to-end automated workflow built with **n8n** and **Google Gemini** that e
 1. Download `My workflow.json`.
 2. Import it into your n8n instance (`Workflows` -> `Import from File`).
 3. Connect your **Google Sheets OAuth2** and **Google Gemini API** credentials.
-4. <img width="1807" height="806" alt="image" src="https://github.com/user-attachments/assets/190623b7-f58b-1e0-bdd6-a4acda36a3df" />
-
+4. ## 🖼️ Workflow Architecture
+![Workflow Architecture](Capture%20d'écran%202026-11-19%20223629.png)
